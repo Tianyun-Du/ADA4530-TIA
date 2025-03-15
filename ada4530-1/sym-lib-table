@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ADA4530_20-easyedapro")(type "KiCad")(uri "${KIPRJMOD}/ADA4530_20-easyedapro.kicad_sym")(options "")(descr ""))
+)
