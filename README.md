@@ -36,6 +36,8 @@ https://www.analog.com/media/en/technical-documentation/user-guides/ada4530-1r-e
 *********ANOTHER INFORMATION*********
 *************************************
 DO NOT WELDING THE 0R RESISTANCE IN R2!
+
 DO NOT WELDING THE 0R RESISTANCE IN R2!
+
 DO NOT WELDING THE 0R RESISTANCE IN R2!
 
